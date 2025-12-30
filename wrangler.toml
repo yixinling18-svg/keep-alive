@@ -1,5 +1,5 @@
 # 你的 Worker 名称。
-name = "keep-alive"
+name = "keep-alive1"
 
 # 你的 Worker 的入口点文件。
 main = "src/worker.js"
